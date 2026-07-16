@@ -616,11 +616,11 @@ Permission Sets
 
 +
 
-Permission Set Groups
+(Permission Set Groups
 
 -
 
-Muted Permissions
+Muted Permissions)
 ```
 
 Salesforce evaluates
